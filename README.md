@@ -5,7 +5,7 @@
 <body>
     <h1>To-Do List Web Application</h1>
     <p>This project is a simple CRUD application for a To-Do List using the MVC pattern in C# .Net core.</p>
-    <img src="https://github.com/user-attachments/assets/aa4137fe-bddf-4790-a06b-d136ea59ea44" alt="addtodo" style="max-width: 100%; height: auto;"/>
+    <img src="https://github.com/user-attachments/assets/0bbaf85e-0ba8-4b44-9517-5090246aacbf" alt="addtodo" style="max-width: 100%; height: auto;"/>
     <h2>Table of Contents</h2>
     <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
