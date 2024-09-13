@@ -18,7 +18,7 @@
     <p>Before you begin, ensure you have met the following requirements:</p>
     <ul>
         <li>Visual Studio or a compatible code editor.</li>
-        <li>.NET Core SDK installed on your machine.</li>
+        <li>.NET SDK installed on your machine.</li>
         <li>A relational database (SQL Server, SQLite, etc.) for data storage.</li>
     </ul>
     <h2 id="getting-started">Getting Started</h2>
